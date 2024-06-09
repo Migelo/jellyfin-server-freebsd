@@ -80,7 +80,7 @@
     "@fontsource/noto-sans-tc": "5.0.18",
     "@jellyfin/libass-wasm": "4.2.1",
     "@jellyfin/sdk": "0.9.0",
-    "@loadable/component": "5.16.3",
+    "@loadable/component": "5.16.4",
     "@mui/icons-material": "5.15.11",
     "@mui/material": "5.15.11",
     "@mui/x-data-grid": "6.19.5",
