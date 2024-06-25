@@ -1,5 +1,5 @@
 PORTNAME=	jellyfin
-DISTVERSION=	10.9.6
+DISTVERSION=	10.9.7
 CATEGORIES=	multimedia
 MASTER_SITES+=	https://github.com/Thefrank/jellyfin-server-freebsd/releases/download/v10.9.4/:prebuilt
 DISTFILES+=	${PREFETCH_FILE}:prefetch \
